@@ -1,0 +1,30 @@
+.Home{
+    height: 100vh;
+    background-color: #23241A;
+    
+}
+
+h1{
+    color: white;
+}
+
+.intro_con{
+    text-align: start;
+    margin: 170px auto;
+    padding: 20px;
+}
+
+.intro_con p{
+    margin-top: 40px;
+    color: white;
+}
+
+
+.socia_con{
+    width: 70px;
+    height: 200px;
+    border: 1px solid yellow;
+    border-radius: 15px;
+    margin: 170px auto;
+
+}

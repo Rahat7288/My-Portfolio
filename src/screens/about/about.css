@@ -1,0 +1,41 @@
+.About{
+    height: 800px;
+    width: 100%;
+    background-color: #23241A;
+    text-align: start;
+}
+
+.About h1{
+    color: yellow;
+}
+
+.About hr{
+    border-bottom: 3px solid yellow;
+    margin-bottom: 30px;
+}
+
+.About_text{
+    height: 600px;
+    width: 80%;
+    border: 1px solid yellow;
+    border-radius: 15px;
+}
+
+.About_con{
+    height: 400px;
+    width: 350px;
+    border: 1px solid yellow;
+    border-radius: 15px;
+    margin: 80px auto;
+    position: relative;
+    
+}
+.About_border{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: rebeccapurple;
+    border-radius: 15px;
+    top: +10px;
+    right: +10px;
+}
